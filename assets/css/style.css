@@ -1,0 +1,18 @@
+#kr-logo{
+  height: 100%;
+  width: 100%;
+}
+
+.container{
+  padding: 2rem 1rem;
+}
+
+#skills-section{
+  background-color: #f4f4f4;
+  padding: 2rem 8rem;
+}
+
+#projects-section{
+  background-color: #ffffff;
+  padding: 2rem 8rem;
+}
